@@ -1,0 +1,10 @@
+{
+  "main": "kotlin-wrappers-kotlin-extensions-jsLegacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "kotlin-wrappers-kotlin-extensions-jsLegacy",
+  "version": "1.0.1-pre.113-kotlin-1.4.0"
+}
