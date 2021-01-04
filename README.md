@@ -1,6 +1,8 @@
 # React with Kotlin
 
-使用 kotlin 开发的 react 应用，以供大家学习参考
+使用 kotlin 开发的 react 日程表应用，以供大家学习参考。
+
+这里有使用Js 开发的同样功能的 react 日程表应用，需要参考的同学，请点击 [Memos](https://github.com/crazyonebyone/Memos)
 
 ## 使用方法
 - clone 代码到本地
